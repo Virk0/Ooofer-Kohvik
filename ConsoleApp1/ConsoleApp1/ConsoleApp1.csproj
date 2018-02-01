@@ -42,6 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Drink.cs" />
+    <Compile Include="Drinks.cs" />
+    <Compile Include="Food.cs" />
+    <Compile Include="Foods\banana.cs" />
+    <Compile Include="Foods\chickenSoup.cs" />
+    <Compile Include="Foods\Porridge.cs" />
+    <Compile Include="Foods\potatoesAndMeat.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

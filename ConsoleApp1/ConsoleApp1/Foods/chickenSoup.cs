@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Meal
+    class chickenSoup : Food
     {
+        public void ChickenSoup()
+        {
+            name = "Chicken Soup";
+            cost = 0.8;
+        }
     }
 }
